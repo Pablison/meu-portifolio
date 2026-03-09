@@ -1,17 +1,17 @@
 <template>
-  <div class="flex flex-col items-center mt-12 mb-8">
+  <div class="flex flex-col items-center mt-2 mb-8">
     
     <div class="relative">
       <div class="rounded-full p-[2px] bg-gradient-to-r from-green-500 via-gray-600 to-purple-500">
         <img 
-          src="https://via.placeholder.com/150" 
+          src="/1.png" 
           alt="Foto de Perfil" 
-          class="w-32 h-32 rounded-full border-4 border-[#0a0a0f] object-cover"
+          class="w-48 h-48 md:w-56 md:h-56 rounded-full border-4 border-[#0a0a0f] object-cover"
         />
       </div>
       
       <div class="absolute -bottom-3 left-1/2 transform -translate-x-1/2 bg-[#121212] border border-gray-700 text-green-500 text-[10px] font-bold px-3 py-1 rounded-full tracking-widest whitespace-nowrap shadow-lg">
-        SR_DEVELOPER
+        MID_DEVELOPER
       </div>
     </div>
 
