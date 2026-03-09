@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sistema de Gestão",
+    "descricao": "Um sistema completo para gerenciar vendas e estoques.",
+    "tecnologias": ["Vue.js", "Node.js", "PostgreSQL"],
+    "link": "https://meuprojeto.com"
+  },
+  {
+    "id": 2,
+    "titulo": "Landing Page Corporativa",
+    "descricao": "Página otimizada para conversão de clientes.",
+    "tecnologias": ["Nuxt.js", "Tailwind CSS"],
+    "link": "https://outra-empresa.com"
+  }
+]
