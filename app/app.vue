@@ -1,10 +1,16 @@
 <script setup>
 import projetos from '../projetos.json' 
+
+useHead({
+  htmlAttrs: {
+    class: 'scroll-smooth'
+  }
+})
 </script>
 
 <template>
 
-  <div class="min-h-screen bg-[#0a0a0f] text-gray-300 font-mono flex flex-col scroll-smooth">
+  <div class="min-h-screen bg-[#0a0a0f] text-gray-300 font-mono flex flex-col">
 
     <TheHeader />
 
