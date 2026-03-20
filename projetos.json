@@ -1,10 +1,12 @@
 [
   {
     "id": 1,
-    "titulo": "Sistema de Gestão",
-    "descricao": "Um sistema completo para gerenciar vendas e estoques.",
-    "tecnologias": ["Vue.js", "Node.js", "PostgreSQL"],
-    "link": "https://meuprojeto.com"
+    "titulo": "Tracking app",
+    "descricao": "SPA empresarial de confirmação de recebimento de encomendas enviadas",
+    "tecnologias": ["Next.js", "React 19", "TypeScript", "Tailwind CSS", "API Rest", "SQL Server"],
+    "imagem": "/img/tracking-app/spa_confirm.png",
+    "url_vercel": "https://tracking-app-omega-teal.vercel.app/",
+    "url_github": "https://github.com/Pablison/tracking-app"
   },
   {
     "id": 2,
